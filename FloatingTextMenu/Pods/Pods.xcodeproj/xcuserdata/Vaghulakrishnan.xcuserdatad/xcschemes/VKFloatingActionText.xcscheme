@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '58F914B673324754CF4B56D7'
-               BlueprintName = 'Pods-FloatingTextMenu'
+               BlueprintIdentifier = '3BF1CD1487C1D27D9C322DF8'
+               BlueprintName = 'VKFloatingActionText'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods_FloatingTextMenu.framework'>
+               BuildableName = 'VKFloatingActionText.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

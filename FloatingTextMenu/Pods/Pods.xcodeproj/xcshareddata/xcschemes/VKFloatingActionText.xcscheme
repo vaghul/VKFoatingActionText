@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '3D755D7F19D6CE64435E3355'
+               BlueprintIdentifier = 'D76F7345D2823DA6EE63716F'
                BlueprintName = 'VKFloatingActionText'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'VKFloatingActionText.framework'>

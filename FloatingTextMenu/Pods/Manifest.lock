@@ -2,11 +2,16 @@ PODS:
   - VKFloatingActionText (0.0.1)
 
 DEPENDENCIES:
-  - VKFloatingActionText (from `../`)
+  - VKFloatingActionText (from `https://github.com/vaghul/VKFoatingActionText.git`)
 
 EXTERNAL SOURCES:
   VKFloatingActionText:
-    :path: ../
+    :git: https://github.com/vaghul/VKFoatingActionText.git
+
+CHECKOUT OPTIONS:
+  VKFloatingActionText:
+    :commit: addb62986cfe337d67819f528c4f818cac96c713
+    :git: https://github.com/vaghul/VKFoatingActionText.git
 
 SPEC CHECKSUMS:
   VKFloatingActionText: a2a640dfe648f72f7cf2fb22f480dbcd24bd1860

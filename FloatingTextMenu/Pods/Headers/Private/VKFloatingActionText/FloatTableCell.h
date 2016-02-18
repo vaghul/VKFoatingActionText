@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/FloatTableCell.h
+../../../VKFloatingActionText/Pods/Classes/FloatTableCell.h

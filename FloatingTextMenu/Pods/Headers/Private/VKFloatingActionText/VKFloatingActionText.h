@@ -1,1 +1,1 @@
-../../../../../Pods/Classes/VKFloatingActionText.h
+../../../VKFloatingActionText/Pods/Classes/VKFloatingActionText.h

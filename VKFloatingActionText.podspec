@@ -16,15 +16,15 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "VKFloatingActionText"
-  s.version      = "0.0.1"
-  s.summary      = "A short working of VKFloatingActionText."
+  s.version      = "0.1.0"
+  s.summary      = "VKFloatingActionText Field Menu Control."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC"this is a sample tst of the desctipyion of the longes and build od the indoa"
+  s.description  = <<-DESC"A Floating TextField Menu For List of Input https://www.cocoacontrols.com/controls/vkfoatingactiontext"
                    DESC
 
   s.homepage     = "https://github.com/vaghul/VKFoatingActionText"
@@ -52,10 +52,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "vaghul" => "" }
+  s.author             = { "vaghul" => "vaghulk@gmail.com" }
   # Or just: s.author    = "vaghul"
   # s.authors            = { "vaghul" => "" }
-  # s.social_media_url   = "http://twitter.com/vaghul"
+   s.social_media_url   = "https://twitter.com/vaghulk"
 
 
 
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/vaghul/VKFoatingActionText.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/vaghul/VKFoatingActionText.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
