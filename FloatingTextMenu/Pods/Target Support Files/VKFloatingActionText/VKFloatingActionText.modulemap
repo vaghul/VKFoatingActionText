@@ -1,0 +1,6 @@
+framework module VKFloatingActionText {
+  umbrella header "VKFloatingActionText-umbrella.h"
+
+  export *
+  module * { export * }
+}

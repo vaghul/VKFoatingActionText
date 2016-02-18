@@ -1,0 +1,14 @@
+PODS:
+  - VKFloatingActionText (0.0.1)
+
+DEPENDENCIES:
+  - VKFloatingActionText (from `../`)
+
+EXTERNAL SOURCES:
+  VKFloatingActionText:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VKFloatingActionText: a2a640dfe648f72f7cf2fb22f480dbcd24bd1860
+
+COCOAPODS: 0.39.0
