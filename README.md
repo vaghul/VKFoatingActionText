@@ -10,6 +10,7 @@ A Floating TextField Menu For List of Input
 
 ## Also Available in Pods
 - pod 'VKFloatingActionText'
+
 **Initialize the button and add it as a subview**
 ```
 VKFloatingActionText *floatButton = [[VKFloatingActionButton alloc]initWithFrame:floatFrame normalImage:[UIImage imageNamed:@"plus"] andPressedImage:[UIImage imageNamed:@"cross"]];
